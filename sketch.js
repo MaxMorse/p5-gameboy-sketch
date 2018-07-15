@@ -46,7 +46,7 @@ function draw() {
 
 
   fill(100);
-  rect((w*0.5) - (outerScreenW * 0.5), h * 0.1296, outerScreenW, outerscreenH);
+  //rect((w*0.5) - (outerScreenW * 0.5), h * 0.1296, outerScreenW, outerscreenH);
   fill(67, 83, 18);
   rect(innerScreenX, innerScreenY, innerScreenW, innerScreenH);
   fill(0);
